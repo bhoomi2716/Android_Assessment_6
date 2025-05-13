@@ -1,0 +1,92 @@
+{
+  "categories": [
+    null,
+    {
+      "name": "Motivational"
+    },
+    {
+      "name": "Love"
+    },
+    {
+      "name": "Happy"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Health"
+    }
+  ],
+  "quotes": {
+    "Happy": {
+      "q7": {
+        "id": "q7",
+        "text": "Happiness in intelligent people is the rarest thing I know."
+      },
+      "q8": {
+        "id": "q8",
+        "text": "Whoever is happy will make others happy"
+      },
+      "q9": {
+        "id": "q9",
+        "text": "Choose joy, every single day"
+      }
+    },
+    "Health": {
+      "q13": {
+        "id": "q13",
+        "text": "\"Health is like money, we never have a true idea of its value until we lose it"
+      },
+      "q14": {
+        "id": "q14",
+        "text": "A healthy outside starts from the inside"
+      },
+      "q15": {
+        "id": "q15",
+        "text": "Health is not valued till sickness comes"
+      }
+    },
+    "Love": {
+      "q4": {
+        "id": "q4",
+        "text": "Love all, trust a few, do wrong to none."
+      },
+      "q5": {
+        "id": "q5",
+        "text": "A life lived in love will never be dull"
+      },
+      "q6": {
+        "id": "q6",
+        "text": "True love stories never have endings."
+      }
+    },
+    "Motivational": {
+      "q1": {
+        "id": "q1",
+        "text": "Push yourself, because no one else is going to do it for you."
+      },
+      "q2": {
+        "id": "q2",
+        "text": "Nothing is impossible. The word itself says 'I'm possible!"
+      },
+      "q3": {
+        "id": "q3",
+        "text": "The greater the difficulty, the more the glory in surmounting it."
+      }
+    },
+    "Music": {
+      "q10": {
+        "id": "q10",
+        "text": "Music can change the world because it can change people."
+      },
+      "q11": {
+        "id": "q11",
+        "text": "Where words fail, music speaks"
+      },
+      "q12": {
+        "id": "q12",
+        "text": "Music is the universal language of mankind"
+      }
+    }
+  }
+}
